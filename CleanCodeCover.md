@@ -1,7 +1,7 @@
-#Clean code
+#Clean code <br />
 This section intends to cover clean code learnings, that can be referred by all of us to write code that is clean to read and maintain. Under this heading, for each chapter, we intend to create a sub-page that will cover the summary of learning from that page.
 
-##Chapters:
+##Chapters: <br />
 Chapter 01 - Clean Code <br />
 Chapter 02 - Meaningful Names <br />
 Chapter 03 - Functions <br />
