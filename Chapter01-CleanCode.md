@@ -43,7 +43,7 @@ Writing clean code requires discipline. We need to work hard to get "code sense"
 - Minimizes the number of entities such as classes, methods, functions, and the like.
 
 ### Important screenshot:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/prabhat143/CodeCleanBook/blob/main/Images/Picture1.png)
 
 ### The Boy Scout Rule
 Leave the campground cleaner than you found it. The clean up does not have to be something big.
