@@ -121,7 +121,7 @@ Hungarian Notation, Member Prexes
 Old examples from Fortran, BASIC. No longer likely to be applicable. 
 
 ### Important screenshot:
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ ![alt text](https://github.com/prabhat143/CodeCleanBook/blob/main/Images/Picture2.png)
  
 Interfaces and Implementations
 
